@@ -1,1 +1,2 @@
-# CPP-Learning-
+# CPP-Learning
+Personal CPP study notes and codes.
